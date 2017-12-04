@@ -15,4 +15,4 @@ Both of these solutions are in node.js, converting the sheet first into an array
 Day Three
 =======
 
-Both of these solutions are in node.js. The first day is finding boundaries, determining which ring a number is on, then how close to a corner it is (and thus how close to the middle of the side) and then adding the two together to get the number of steps back to the center.
+Both of these solutions are in node.js. The first day is finding boundaries, determining which ring a number is on, then how close to a corner it is (and thus how close to the middle of the side) and then adding the two together to get the number of steps back to the center. The second day... I mathmatically defined the spiral's rules and solved it through brute force.

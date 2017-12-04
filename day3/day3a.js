@@ -1,4 +1,4 @@
-// http://adventofcode.com/2017/day/2
+// http://adventofcode.com/2017/day/3
 // Part One
 
 var input = [12, 23, 1024, 312051]
