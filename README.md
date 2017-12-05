@@ -13,13 +13,18 @@ Both of these solutions are in node.js, converting the sheet first into an array
 
 
 Day Three
-=======
+=========
 
 Both of these solutions are in node.js. The first day is finding boundaries, determining which ring a number is on, then how close to a corner it is (and thus how close to the middle of the side) and then adding the two together to get the number of steps back to the center. The second day... I mathmatically defined the spiral's rules and solved it through brute force.
 
 
 Day Four
-=======
+========
 
 Both of these solutions are in node.js. The first day, I turned each phrase into an array of words and a set of words and checked to see if the length of the array matched the length of the set. The second day, I did the same thing but first sorted the characters in each word.
 
+
+Day Five
+========
+
+Both of these solutions are in node.js. The solutions were both extremely straightforward: convert the list of instructions into an array, and hop through it. I counted the hops and changed the values in the array as I went based on the challenge's instructions (add one in part one, and add or subtract one based on the current value for part two).
