@@ -28,3 +28,9 @@ Day Five
 ========
 
 Both of these solutions are in node.js. The solutions were both extremely straightforward: convert the list of instructions into an array, and hop through it. I counted the hops and changed the values in the array as I went based on the challenge's instructions (add one in part one, and add or subtract one based on the current value for part two).
+
+
+Day Six
+========
+
+Both of these solutions are in node.js. The first day, I wrote the banks as an array of integers, and looped through them re-allocating as described. After an allocation, I wrote a string representation of the bank state to a history array. Once that history containmed a duplicate, it stopped and returned the cycle count. For part two, I note the value of the array state and then kept it running, looking for that state to come up again.
